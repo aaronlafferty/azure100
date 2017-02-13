@@ -2,7 +2,10 @@
   "ExpandedNodes": [
     "",
     "\\azure100experience1",
-    "\\azure100experience1\\story_portal_navigation"
+    "\\azure100experience1\\story_portal_navigation",
+    "\\azure100experience1\\story_portal_navigation\\deployment",
+    "\\azure100experience1\\story_portal_navigation\\deployment\\scripts"
   ],
+  "SelectedNode": "\\azure100experience1\\story_portal_navigation\\deployment\\scripts",
   "PreviewInSolutionExplorer": false
 }
