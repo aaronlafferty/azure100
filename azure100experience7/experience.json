@@ -4,6 +4,6 @@
     "description": "Getting familiar with the Azure Web App Service",
     "permissions": [ "admins" ],
   "story_ids": [
-    "story://Users/alafferty/Source/Repos/azure100/azure100/azure100experience1/web_app_service"
+    "story://content-private/content/azure100/azure100experience7/web_app_service"
   ] 
 }
