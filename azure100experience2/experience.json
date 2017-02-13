@@ -1,0 +1,9 @@
+{
+    "$schema": "https://immtest-web.azurewebsites.net/schemas/0.0.1/ImmersionExperienceMetadata.json",
+    "title": "Azure Virtual Machines and Compute",
+    "description": "Getting familiar with the Azure Virtual Machines and the resrouces that them up.",
+    "permissions": [ "admins" ],
+    "story_ids": [
+        "story://content-private/content/azure100/azure100experience2/story_vitrual_machines_compute"
+    ] 
+}

@@ -1,0 +1,9 @@
+{
+    "$schema": "https://immtest-web.azurewebsites.net/schemas/0.0.1/ImmersionExperienceMetadata.json",
+    "title": "Azure Security",
+    "description": "Getting familiar with the Azure basic security options",
+    "permissions": [ "admins" ],
+    "story_ids": [
+        "story://content-private/content/azure100/azure100experience6/story_azure_security"
+    ] 
+}

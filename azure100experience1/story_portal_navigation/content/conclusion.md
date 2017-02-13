@@ -1,0 +1,2 @@
+The lab has now been completed.  The overview and exploration of basic key elements of the Microsoft Azure Resource Manager based portal have been navigated to give the user a feel for how and where to go for further labs completion.  Follow up information has been detailed for further knowledge and learning opportunities.  The next set of labs will go into more detail covering each set of objections and more of the portal itself will be explored.  
+

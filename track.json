@@ -1,0 +1,15 @@
+{
+    "$schema": "https://immtest-web.azurewebsites.net/schemas/0.0.1/ImmersionTrackMetadata.json",
+    "title": "Azure Fundamentals",
+    "short_title": "Azure Fundamentals",
+    "description": "Get hands-on and learn how to manage and build Azure resources.",
+    "category": "Infrastructure",
+    "experience_ids": [
+        "experience://Content-Private/content/azure100/azure100experience1",
+        "experience://Content-Private/content/azure100/azure100experience2",
+        "experience://Content-Private/content/azure100/azure100experience3",
+        "experience://Content-Private/content/azure100/azure100experience4",
+        "experience://Content-Private/content/azure100/azure100experience5",
+        "experience://Content-Private/content/azure100/azure100experience6"
+    ],
+    "permissions": [ "admins" ]

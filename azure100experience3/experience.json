@@ -1,0 +1,9 @@
+{
+    "$schema": "https://immtest-web.azurewebsites.net/schemas/0.0.1/ImmersionExperienceMetadata.json",
+    "title": "Advanced Virtual Machines and configurations",
+    "description": "Setup advanced configurations for Azure Virtual Machines.",
+    "permissions": [ "admins" ],
+    "story_ids": [
+        "story://content-private/content/azure100/azure100experience3/story_advanced_virtual_machine_configurations"
+    ] 
+}
