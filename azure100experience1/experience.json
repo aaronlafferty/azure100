@@ -4,6 +4,6 @@
     "description": "Getting familiar with the Azure portal and navigation",
     "permissions": [ "admins" ],
     "story_ids": [
-        "story://content-private/content/azure100/azure100experience1/story_portal_navigation"
+        "story://azure100/azure100experience1/story_portal_navigation"
     ] 
 }
